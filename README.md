@@ -31,7 +31,7 @@ Mail 📨:
 
 andresfelipecabeza16@gmail.com
 
-And you can follow me on twitter.
+And you can follow or contact me on Twitter too.
 
 https://www.twitter.com/FelipeCabeza16
 
