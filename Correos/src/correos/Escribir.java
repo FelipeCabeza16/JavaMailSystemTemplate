@@ -7,7 +7,7 @@ package correos;
 import java.io.*;
 /**
  *
- * @author SANDRA
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Escribir {
     Usuario usuario;
