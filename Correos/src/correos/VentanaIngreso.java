@@ -19,7 +19,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class VentanaIngreso extends javax.swing.JFrame {
 
