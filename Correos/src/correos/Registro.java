@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author SANDRA
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Registro extends javax.swing.JFrame {
 
