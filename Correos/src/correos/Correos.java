@@ -7,7 +7,7 @@ package correos;
 
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Correos {
 
