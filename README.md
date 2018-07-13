@@ -9,7 +9,9 @@ This project contains:
 * If your sign in it's successful you have a basic funtionality, show name, add contacts and *send mails*.
 * The frames dispose automatically.
 * You can LogOut.
+* Count attempts to LogIn.
 * You can read mails too.
+
 
 ## Functionallity
 
