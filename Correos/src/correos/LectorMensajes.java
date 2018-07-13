@@ -14,7 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author SANDRA
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class LectorMensajes {
     private ArrayList<String> mensajes;
