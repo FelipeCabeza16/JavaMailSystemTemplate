@@ -7,7 +7,7 @@ package correos;
 
 /**
  *
- * @author SANDRA
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class EnviarMensajes extends javax.swing.JFrame {
 
