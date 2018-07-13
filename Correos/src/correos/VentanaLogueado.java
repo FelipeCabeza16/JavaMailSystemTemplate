@@ -22,7 +22,7 @@ import javax.swing.ListSelectionModel;
 import java.awt.event.*;
 /**
  *
- * @author SANDRA
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class VentanaLogueado extends javax.swing.JFrame {
 
