@@ -9,7 +9,7 @@ import java.util.*;
 import java.io.*;
 /**
  *
- * @author 
+ * @author Felipe Cabeza @felipecabeza16 
  */
 public class Comprobante {
 private  Usuario logueado;  
