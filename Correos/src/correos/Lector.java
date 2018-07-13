@@ -9,7 +9,7 @@ import java.io.*;
 import java.util.*;
 /**
  *
- * @author SANDRA
+ * @author Felipe Cabeza @felipecabeza16
  */
 public class Lector {
     ArrayList<Usuario> usuarios;
